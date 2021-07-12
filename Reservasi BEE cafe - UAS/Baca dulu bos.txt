@@ -1,0 +1,13 @@
+========== LOGIN ==========
+Jika ingin login, kamu harus "Sign Up" terlebih dahulu
+
+Karena disini tidak admin
+
+Jika ingin langsung loin dengan data user yanhg sudah ada, ada dibawah ini:
+
+username :mes32
+Pass : 123456
+
+
+Username : Eja123Wawan
+pass : 123456
